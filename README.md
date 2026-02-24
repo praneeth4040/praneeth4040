@@ -25,6 +25,16 @@
 
 ---
 
+### 🏙️ 3D_CONTRIBUTION_CITY
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/praneeth4040/praneeth4040/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution City" />
+  <br/>
+  <i>Exploring my 3D Contribution Moon City...</i>
+</div>
+
+---
+
 ### 👨‍💻 ABOUT_ME
 
 I'm a dedicated Full-Stack Developer with a passion for building robust, user-centric applications. My recent work involves complex systems for **Club Management** and **Event Orchestration**, focusing on high performance and clean architecture.
