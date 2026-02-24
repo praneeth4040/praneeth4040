@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&height=300&text=PRANEETH%20CHAKKA&fontSize=50&fontAlign=50&fontAlignY=40&color=0:5C9405,100:795548&desc=BUILDING%20THE%20DIGITAL%20OVERWORLD&descSize=15&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeSize=2" alt="Minecraft Arch Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=PRANEETH%20CHAKKA&fontSize=50&fontAlign=50&fontAlignY=40&color=0:5C9405,100:795548&desc=BUILDING%20THE%20DIGITAL%20OVERWORLD&descSize=15&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeSize=2" alt="Minecraft Slice Header" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&pause=1000&color=5C9405&center=true&vCenter=true&width=900&lines=CRAFTING+THE+BLOCKS+OF+THE+WEB...;MINING+DATA+STREAMS...;EXPLORING+THE+OVERWORLD+OF+CODE;ADVENTURE+AWAITS." alt="Minecraft Typing" />
 </div>
